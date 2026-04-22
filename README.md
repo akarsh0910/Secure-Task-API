@@ -127,6 +127,7 @@ Token is stored in localStorage
 Protected routes allow only authenticated users to access dashboard
 
 ## Future Improvements
+
 Toast notifications
 Drag and drop tasks
 Task sorting
