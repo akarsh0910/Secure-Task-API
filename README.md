@@ -146,7 +146,7 @@ Protected routing
 State management with React hooks
 CRUD operations
 UI/UX enhancement
-Frontend and backend integration
+
 
 ## Author-
 Akarsh Singh Sisoudia
