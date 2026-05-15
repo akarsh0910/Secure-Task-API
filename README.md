@@ -150,5 +150,4 @@ UI/UX enhancement
 
 ## Author-
 Akarsh Singh Sisoudia
-B.Tech CSE (AI/ML)
-Frontend + Backend Developer Enthusiast
+
