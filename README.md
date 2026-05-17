@@ -34,37 +34,6 @@ A full-stack task management web application with user authentication, protected
 - JWT Authentication
 - bcryptjs
 
-## Project Structure
-
-secure-task-api/
-├── client/
-│   ├── src/
-│   │   ├── api/
-│   │   │   └── axios.js
-│   │   ├── components/
-│   │   │   └── ProtectedRoute.jsx
-│   │   ├── pages/
-│   │   │   ├── Register.jsx
-│   │   │   ├── Login.jsx
-│   │   │   └── Dashboard.jsx
-│   │   ├── App.jsx
-│   │   ├── App.css
-│   │   ├── index.css
-│   │   └── main.jsx
-│   └── package.json
-│
-├── server/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── config/
-│   ├── .env
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
-
 ## Screens / Modules
 
   Authentication-
